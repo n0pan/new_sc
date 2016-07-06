@@ -1,7 +1,12 @@
 body {
   padding-top: 50px;
 }
-.faq {
+
+.faq h1 {
+  text-align: center;
+}
+
+.faq p {
   padding: 40px 15px;
   text-align: justify;
 }
