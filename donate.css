@@ -46,6 +46,20 @@
 
 	.carousel {
 		height: 500px;
+		margin-bottom: 60px;
 	}
 
+}
+
+@media (min-width: 992px) {
+	.carousel-caption p {
+		top: 0%;
+		font-size: 21px;
+		line-height: 1.4;
+	}
+
+	.carousel {
+		height: 500px;
+		margin-bottom: 60px;
+	}
 }
