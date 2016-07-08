@@ -1,7 +1,3 @@
-.donate {
-	text-align: center;
-}
-
 .donate p {
 	padding-top: 20px;
 	text-align: justify;
@@ -39,7 +35,7 @@
 @media (min-width: 768px) {
 	/* Bump up size of carousel content */
 	.carousel-caption p {
-		top: 10%;
+		top: 5%;
 		font-size: 21px;
 		line-height: 1.4;
 	}
@@ -48,7 +44,6 @@
 		height: 500px;
 		margin-bottom: 60px;
 	}
-
 }
 
 @media (min-width: 992px) {
