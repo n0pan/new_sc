@@ -8,8 +8,15 @@ body {
 }
 
 #map {
-  width: 100%;
-  height: 400px;
+    width: 100%; height: 450px; 
+}
+
+.info-window {
+    text-align: center;
+}
+
+.info-content {
+    color: #999;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -109,6 +116,13 @@ body {
   letter-spacing: -1px;
 }
 
+.featurette-divider #dividerone {
+  margin-bottom: 0;
+}
+
+.featurette-divider #dividertwo {
+  margin-top: 0;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
