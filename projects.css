@@ -2,27 +2,26 @@
 -------------------------------------------------- */
 
 .navbar-wrapper .navbar {
-	background-color: #000134;
+	background-color: #68810E;
 }
 
 .navbar-brand img {
-	background-color: #000134;
+	background-color: #68810E;
 }
 
-.spacecraft h1 {
-	padding: 40px 15px;
-	text-align: center;
+.nav.navbar-nav li a {
+	color: #FFFFFF;
 }
 
-.spacecraft p {
-	text-align: justify;
+.nav.navbar-nav .dropdown-menu li a {
+	color: #000000;
 }
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.projects .col-lg-6 {
+.projects .col-lg-12 {
 	margin-bottom: 20px;
 	text-align: center;
 }
@@ -35,7 +34,7 @@
 	font-weight: normal;
 }
 
-.projects .col-lg-6 p {
+.projects .col-lg-12 p {
 	margin-right: 10px;
 	margin-left: 10px;
 }
