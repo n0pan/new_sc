@@ -7,6 +7,10 @@ body {
   color: #5a5a5a;
 }
 
+#map {
+  width: 100%;
+  height: 400px;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -138,6 +142,7 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
 }
 
 @media (min-width: 992px) {
@@ -146,9 +151,9 @@ body {
   }
 }
 
-  .featurette-heading-social {
-    font-size: 50px;
-  }
+.featurette-heading-social {
+  font-size: 50px;
+}
 }
 
 @media (min-width: 992px) {
@@ -157,7 +162,7 @@ body {
   }
 }
 
-  .featurette-heading-social .social {
-    text-align: center;
-    position: absolute;
-  }
+.featurette-heading-social .social {
+  text-align: center;
+  position: absolute;
+}
