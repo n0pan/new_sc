@@ -18,6 +18,14 @@
 	text-align: justify;
 }
 
+.nav.navbar-nav li a {
+	color: #c7ae72;
+}
+
+.nav.navbar-nav .dropdown-menu li a {
+	color: #000000;
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
