@@ -34,6 +34,10 @@
 	height:    250px;
 }
 
+.marketing figure {
+	text-align: center;
+}
+
 /* FEATURETTE */
 
 .featurette-heading {

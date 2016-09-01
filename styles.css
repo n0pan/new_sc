@@ -38,6 +38,11 @@ body {
   position:    static;
 }
 
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
